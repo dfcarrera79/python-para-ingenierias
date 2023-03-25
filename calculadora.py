@@ -27,3 +27,6 @@ def potencia(base, exponente):
   exponente ‐‐ exponente de la operación.
   """
   return base ** exponente  
+
+def dividir(num1, num2):
+  return num1/num2
